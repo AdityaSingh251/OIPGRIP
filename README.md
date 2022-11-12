@@ -1,2 +1,2 @@
 # OIPGRIP
-Calculater Using HTML CSS JAVASCRIPT
+Calculator Using HTML CSS JAVASCRIPT
