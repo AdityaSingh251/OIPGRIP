@@ -1,2 +1,0 @@
-# OIPGRIP
-Calculator Using HTML CSS JAVASCRIPT
